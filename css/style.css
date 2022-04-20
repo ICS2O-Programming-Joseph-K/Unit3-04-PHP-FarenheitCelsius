@@ -1,14 +1,14 @@
 body {
-  background-color: #707070;
+  background-color: #ffffff;
 }
 
 h1 {
-  background-color: #5057b4;
+  background-color: #ff0000;
   color: hsl(0, 0%, 0%);
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: #707070;
+  background-color: #ffffff;
 }
